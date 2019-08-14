@@ -3,6 +3,7 @@
 class Magefast_ProductBreadcrumbs_Helper_Data extends Mage_Core_Helper_Abstract
 {
     const XML_PATH_CATEGORY_URL_SUFFIX = 'catalog/productbreadcrumbs/skip_categories';
+    const CACHE_TAG = 'magefast_product_breadcrumbs';
 
     protected $_skipCategoryIDs = array();
 
