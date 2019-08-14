@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Magefast_ProductBreadcrumbs",
+    "type": "magento-module",
+    "license": "AFL",
+    "homepage": "",
+    "description": "Breadcrumbs for Product page, with categories link",
+    "authors": [
+    {
+        "name": "Alex",
+        "email": "magento@magefast.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
