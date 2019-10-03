@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Magefast_ProductBreadcrumbs",
+    "name": "OpenMageModuleFostering\/Magefast_ProductBreadcrumbs",
     "type": "magento-module",
     "license": "AFL",
     "homepage": "",
     "description": "Breadcrumbs for Product page, with categories link",
     "authors": [
-    {
-        "name": "Alex",
-        "email": "magento@magefast.com"
-    }
-],
+        {
+            "name": "Alex",
+            "email": "magento@magefast.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
